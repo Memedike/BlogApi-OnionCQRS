@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Blog.Domain.Common.Category
+namespace Blog.Domain.Common.Entites
 {
     public class Category : EntityBase
     {
